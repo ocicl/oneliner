@@ -1,0 +1,10 @@
+* oneliner
+
+Extracts a one-liner from a piece of text.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mck-/oneliner.git   |
+| commit  | 90e9726  |
+| systems | oneliner |
+|---------+-------------------------------------------|
+
